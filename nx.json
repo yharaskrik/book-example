@@ -19,6 +19,12 @@
     },
     "api-interfaces": {
       "tags": []
+    },
+    "payment": {
+      "tags": []
+    },
+    "payment-e2e": {
+      "tags": []
     }
   }
 }
